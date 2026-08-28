@@ -1,7 +1,0 @@
-#My password file
-.env
-#this is my log
-*.log
-#my local runtime data
-nextcloud-data/
-db-data/
